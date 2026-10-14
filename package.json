@@ -1,0 +1,13 @@
+{
+  "name": "price-alert-tool",
+  "version": "1.0.0",
+  "description": "CLI tool that reads daily closing prices and alert rules, then prints triggered alerts.",
+  "main": "alerts.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "r1",
+    "instrument": "INFY",
+    "type": "level",
+    "direction": "above",
+    "level": 1500
+  },
+  {
+    "id": "r2",
+    "instrument": "INFY",
+    "type": "level",
+    "direction": "below",
+    "level": 1500
+  },
+  {
+    "id": "r3",
+    "instrument": "TCS",
+    "type": "level",
+    "direction": "below",
+    "level": 3900
+  },
+  {
+    "id": "r4",
+    "instrument": "INFY",
+    "type": "ma_cross",
+    "direction": "above",
+    "short": 2,
+    "long": 4
+  }
+]
